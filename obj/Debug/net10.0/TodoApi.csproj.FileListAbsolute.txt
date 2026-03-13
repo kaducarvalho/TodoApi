@@ -34,3 +34,6 @@ C:\Users\carlos.carvalho\projetos\TodoApi\obj\Debug\net10.0\ref\TodoApi.dll
 C:\Users\carlos.carvalho\projetos\TodoApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\carlos.carvalho\projetos\TodoApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\carlos.carvalho\projetos\TodoApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlos.carvalho\projetos\TodoApi\bin\Debug\net10.0\xunit.abstractions.dll
+C:\Users\carlos.carvalho\projetos\TodoApi\bin\Debug\net10.0\xunit.core.dll
+C:\Users\carlos.carvalho\projetos\TodoApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

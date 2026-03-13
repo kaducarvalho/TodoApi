@@ -5,8 +5,8 @@
 public class TodoController : ControllerBase
 {
     [HttpGet]
-    public string Get()
+    public IEnumerable<string> Get()
     {
-        return "Hello DevOps";
+        return new string[] { "Learn .NET", "Build CI/CD teste2" };
     }
 }
